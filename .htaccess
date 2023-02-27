@@ -1,0 +1,3 @@
+RewriteEngine on
+RewriteBase /
+RewriteRule ^login/?$ /login.php [L,NC,R=301]
